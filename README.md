@@ -6,7 +6,7 @@
 ### <div align="center">I'm Hacı, a computer science senior year student at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/)👨‍💻</div>  
   
 
-- 🔭 I'm currently working part-time at [Mobiversite](https://www.mobiversite.com/).  
+- 🔭 I'm currently working at [Mobiversite](https://www.mobiversite.com/) as Software Engineer.  
   
 
 - 🌱 I have developed projects on Backend, Frontend, and Mobile.  
